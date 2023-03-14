@@ -3,22 +3,22 @@ This project is a Vue.js application that has only one screen, where all user's 
 
 ![status](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
-## Development Stack
+## 💻 Development Stack
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Features
+## :rocket: Features
 - [x] Page that lists in card format all offers favorited by the user.
 - [x] Modal that allows filtering in multiple ways and adding an offer to your list of favorite offers
 - [x] Options on the card that allow removing it from favorites.
 
 
-## :anotações: Index
+## :memo: Index
 - <a href="#getting_started">Getting Started </a>
 - <a href="#setup">Setup </a>
 - <a href="#author">Author </a>
 
 
-<h2 id="getting_started">:bandeira_quadriculada: Getting Started </h2>
+<h2 id="getting_started">:checkered_flag: Getting Started </h2>
 
 These instructions will help you run the project on your local machine for development purposes.
 ### Prerequisites
@@ -27,13 +27,17 @@ These instructions will help you run the project on your local machine for devel
 
 <h2 id="setup">:gear: Setup</h2>
 Clone the repository:
+
 ```
 $ git clone https://github.com/LuizGGoncalves/quero-front-test.git
 $ cd quero-front-test
 ```
+
 Start application:
+
 ```
 $ docker compose up
+
 ```
 
 ## Authors
